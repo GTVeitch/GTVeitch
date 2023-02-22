@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Gavin Veitch 👋
 
+## I'm a Full stack Developer and graduate of Flatiron School.
+
+
+Language Proficiencies:
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 <!--
 **GTVeitch/GTVeitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
